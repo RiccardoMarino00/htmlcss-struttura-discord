@@ -23,8 +23,12 @@
     background-color: lightgray;
 }
 
+.firebrick{
+    background-color:firebrick;
+}
+
 .orange{
-    background-color: orange;
+    background-color: slateblue;
 }
 
             
@@ -41,7 +45,7 @@
 
 .purple{
     justify-content: space-between;
-    background-color: tomato;
+    background-color: slateblue;
 }
 
 .green{
